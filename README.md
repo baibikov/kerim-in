@@ -1,6 +1,6 @@
 ![HEADER](https://github.com/kerim-in/kerim-in/blob/main/assets/kerim%20-in.png)
 
-## I am a fullstack web developer in Java Script
+## I am a fullstack web-developer in JavaScript
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
