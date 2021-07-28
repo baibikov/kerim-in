@@ -2,7 +2,8 @@
 
 ## I am a fullstack web developer in Java Script
 
-//
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
@@ -16,7 +17,9 @@
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read)
 ![Material](https://img.shields.io/badge/-materialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB)
+![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB)
 
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=outrun&show_icons=true)
