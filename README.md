@@ -22,7 +22,7 @@
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read)
 ![Material](https://img.shields.io/badge/-materialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB)
 ![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB)
-![heroku](https://img.shields.io/badge/-nongoose-090909?style=for-the-badge&logo=nongoose&logoColor=47C5FB)
+![heroku](https://img.shields.io/badge/-mongoose-090909?style=for-the-badge&logo=mongoose&logoColor=47C5FB)
 
 
 
