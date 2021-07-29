@@ -1,4 +1,4 @@
-![HEADER](https://github.com/kerim-in/kerim-in/blob/main/assets/kerim.png)
+![HEADER](https://github.com/kerim-in/kerim-in/blob/main/assets/kerim.PMG)
 
 ## I am a fullstack web-developer in JavaScript
 
