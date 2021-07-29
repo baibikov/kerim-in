@@ -2,8 +2,12 @@
 
 ## I am a fullstack web-developer in JavaScript
 
+---
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+--- 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
@@ -29,11 +33,6 @@
 
 ---
 
-<h3>
-  <a href="https://github.com/BaisangurIdigov">
-    <img alt="Baisangur" src="https://img.shields.io/badge/-Baisangur_Idigov-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</h3>
 
 <h3>
   <a href="https://github.com/kerim-in">
