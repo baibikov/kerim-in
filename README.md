@@ -21,10 +21,11 @@
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read)
 ![Material](https://img.shields.io/badge/-materialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB)
-![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB)
 ![heroku](https://img.shields.io/badge/-mongoos-090909?style=for-the-badge&logo=mongoos&logoColor=47C5FB)
 ![heroku](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=write)
 ![heroku](https://img.shields.io/webshtorm/-git-090909?style=for-the-badge&logo=webshtorm&logoColor=write)
+![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write)
+
 
 
 
