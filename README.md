@@ -23,6 +23,7 @@
 ![Material](https://img.shields.io/badge/-materialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB)
 ![heroku](https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB)
 ![heroku](https://img.shields.io/badge/-mongoos-090909?style=for-the-badge&logo=mongoos&logoColor=47C5FB)
+![heroku](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=write)
 
 
 
