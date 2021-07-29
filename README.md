@@ -23,3 +23,20 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerim-in&theme=outrun&show_icons=true)
+
+
+## Команда проекта
+
+---
+
+<h3>
+  <a href="https://github.com/BaisangurIdigov">
+    <img alt="Baisangur" src="https://img.shields.io/badge/-Baisangur_Idigov-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</h3>
+
+<h3>
+  <a href="https://github.com/kerim-in">
+    <img alt="Kerim" src="https://img.shields.io/badge/-Kerim_in-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</h3>
