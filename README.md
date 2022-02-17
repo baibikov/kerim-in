@@ -31,7 +31,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerim-in&theme=outrun&show_icons=true)
 
 
 ## Команда проекта
